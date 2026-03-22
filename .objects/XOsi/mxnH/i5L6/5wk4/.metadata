@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sunny",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5wk4QOt8r02ctJjuvQLlNw",
+  "Reference": "20_BeQJW8UeH5YVYsJF-Fg/5wk4QOt8r02ctJjuvQLlNw",
+  "ParentRef": "20_BeQJW8UeH5YVYsJF-Fg/i5L6P1LKzkinZJJT4XwD0w",
+  "Created": "2025-11-25T19:40:29.9549512Z",
+  "Updated": "2025-11-25T19:40:29.9549512Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XUMfaPiWE0OVYdpNCRO-Hw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="a237ed6b-05c6-4886-b9a4-505c61d8613e" CvTextArea="983, 326, 130, 30" CvTextArgument="Weather" CvType="Text" DesignTimeRectangle="624, 323, 489, 39" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='wob_loc' tag='DIV' /&gt;" Guid="9945ce57-b10b-418a-a3c6-7aafe7ad3a81" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Tomorrow&amp;apos;s weather in Durban in degrees Celsius - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2671f1dc5f9151bcd93c97820cb34603.png" xmlns="">0tBvOu-o4fEu1gYf2fFztzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

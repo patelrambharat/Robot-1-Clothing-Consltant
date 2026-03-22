@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Google Search",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "zDU1k2hPHkWBm_jRnhN_Xg",
+  "Reference": "20_BeQJW8UeH5YVYsJF-Fg/zDU1k2hPHkWBm_jRnhN_Xg",
+  "ParentRef": "20_BeQJW8UeH5YVYsJF-Fg/i5L6P1LKzkinZJJT4XwD0w",
+  "Created": "2025-11-25T18:03:14.5696911Z",
+  "Updated": "2025-11-25T18:03:14.5696911Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
